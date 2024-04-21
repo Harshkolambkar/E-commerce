@@ -1,0 +1,17 @@
+.footer{
+    background-color: rgb(244, 244, 244);
+    padding: 15px;
+}
+.navigation{
+    list-style-type: none;
+    font-size: large;
+    padding-left: 20px;
+}
+.navigation a {
+    text-decoration: none;
+    color: black;
+}
+.navigation a:hover {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
